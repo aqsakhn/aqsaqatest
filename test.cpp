@@ -9,5 +9,6 @@ int main()
     b=4;
     c=a+b;
     cout<<"results"<<c<<endl;
+    cout<<"successfully ended/n"<<endl;
 
 }

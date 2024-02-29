@@ -10,6 +10,7 @@ int main()
     c=a+b;
     cout<<"results"<<c<<endl;
     cout<<"successfully ended/n"<<endl;
+    cout<<"new line added";
     
 
 }

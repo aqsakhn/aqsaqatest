@@ -1,0 +1,10 @@
+ls -al ~/.ssh    //chel for exsiting keys
+cat ~/.ssh/id_ed25519.pub    //find out the details of the key if existed
+go to repository settings and add the above key details in the setings option: SSH keys
+ssh -T git@github.com    // check if added or not
+eval "$(ssh-agent -s)"    //findingout pid for shell access
+ssh-add    //add the phrase that previously set to confirm identity
+git push // perform push without asking for usename and password. 
+
+
+

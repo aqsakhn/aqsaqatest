@@ -11,6 +11,7 @@ int main()
     cout<<"results"<<c<<endl;
     cout<<"successfully ended/n"<<endl;
     cout<<"new line added";
+    cout<<"checking updates";
     
 
 }
